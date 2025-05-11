@@ -54,9 +54,6 @@
 # Clone the repository
 git clone https://github.com/mscbuild/ui-ux-design.git
 cd ui-ux-design
-
-# Install dependencies
-npm install
 ```
 
 >Value Proposition
