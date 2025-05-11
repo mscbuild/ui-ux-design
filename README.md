@@ -35,7 +35,7 @@
 
 ----
 
-## 📸 Screenshots
+## 📸 Screenshot
 ![](https://github.com/mscbuild/ui-ux-design/blob/main/035.png)
 ---
 
