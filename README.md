@@ -102,11 +102,11 @@ Our platform is designed to be a one-stop shop for gamers, offering a curated ex
 
 *Collectors: Find rare, exclusive, and limited-edition items to expand your collection and enhance your gaming experience.
 
-### 👤 Authors
+### ✍️ Author
 JR – @mscbuild
 
 
-### 📄 License
+### 📝 License
 
 This project is licensed under the `MIT License` - see the LICENSE file for details.
 
