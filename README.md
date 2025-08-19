@@ -104,7 +104,9 @@ Our platform is designed to be a one-stop shop for gamers, offering a curated ex
 
 # Why is UX Design Important?
 
-*UX design is about making technology and products more human-centered, creating experiences that are not only functional but also enjoyable and meaningful for the people who use them.  *It encompasses all aspects of a user's interaction with a product, from initial awareness to final engagement, including branding, design, usability, and functionality.
+*UX design is about making technology and products more human-centered, creating experiences that are not only functional but also enjoyable and meaningful for the people who use them.
+
+*It encompasses all aspects of a user's interaction with a product, from initial awareness to final engagement, including branding, design, usability, and functionality.
 
 ### ✍️ Author
 JR – @mscbuild
