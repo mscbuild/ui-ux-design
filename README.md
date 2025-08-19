@@ -116,5 +116,5 @@ JR – @mscbuild
 
 This project is licensed under the `MIT License` - see the LICENSE file for details.
 
-[More](https://www.behance.net/bitkoins) 
+[More project design](https://www.behance.net/bitkoins) 
  
