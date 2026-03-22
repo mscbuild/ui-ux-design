@@ -1,5 +1,6 @@
 # 🎮 Responsive eCommerce Website and App for Gamers.
  ![](https://komarev.com/ghpvc/?username=mscbuild) 
+ [![Author](https://img.shields.io/badge/Author-Yuri%20Dev-blue.svg)](http://mscbuild.github.io/)
  ![](https://img.shields.io/github/license/mscbuild/e-learning) 
  ![](https://img.shields.io/github/repo-size/mscbuild/ui-ux-design)
 ![](https://img.shields.io/badge/PRs-Welcome-green)
